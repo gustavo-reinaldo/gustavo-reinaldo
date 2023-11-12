@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavo-reinaldo
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning Some programming languages (Java, nodeJS, Springtools, Angular, and the WEB development kit (HTML, CSS, JAVASCRIPT)), and also, how to manage Databases.
+- 🌱 I’m currently learning Some programming languages (Java, nodeJS, Springtools, Angular, Typescript and the WEB development kit (HTML, CSS, JAVASCRIPT)), and also, how to manage Databases.
 - 💞️ I’m looking to collaborate on some project to improve my skills
 - 📫 How to reach me: 
 - Instagram: https://www.instagram.com/rei.gxtvo/
