@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavo-reinaldo
 - 👀 I’m interested in Software Developing
 - ✍️ Graduating in Analysis and Systems Development
-- 🌱 I’m currently learning Some programming languages (Java, nodeJS, Springtools, Angular, Typescript and the WEB development kit (HTML, CSS, JAVASCRIPT)), and also, how to manage Databases.
+- 🌱 I’m currently looking for an Quality Assurance Internship or Entry Level job, and i'm also learning some programming languages and developing my skills (Java, nodeJS, Springtools, Angular, Typescript, Cypress for test automation and the WEB development kit (HTML, CSS, JAVASCRIPT)).
 - 💞️ I’m looking to collaborate on some project to improve my skills
 - 📫 How to reach me: 
 - Instagram: https://www.instagram.com/rei.gxtvo/
