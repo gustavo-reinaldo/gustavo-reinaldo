@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavo-reinaldo
 - 👀 I’m interested in Software Developing and Quality Assurance
-- ✍️ Graduating in Analysis and Systems Development
+- ✍️ Graduated in Analysis and Systems Development
 - 🌱 I'm currently working as Software Developer(Fullstack) and Quality Assurance, with knowledge in manual and automated tests in web and desktop apps.
 - 📫 How to reach me: 
 - Instagram: https://www.instagram.com/rei.gxtvo/
